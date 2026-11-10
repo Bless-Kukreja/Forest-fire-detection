@@ -1,6 +1,6 @@
 # Forest-fire-detection
 
-Predicts how large an area a forest fire will spread, based on wind speed, temperature, and humidity (pandas, matplotlib, scikit-learn).
+Predicts how large an area a forest fire will spread, based on wind speed, temperature, humidity and the ISI fire index (pandas, matplotlib, scikit-learn).
 ![AI101](https://img.shields.io/badge/AI101_Mini--Project-lightblue) ![Team](https://img.shields.io/badge/Team_46-lightblue) ![Python](https://img.shields.io/badge/Python_3.12+-lightblue)
 
 
