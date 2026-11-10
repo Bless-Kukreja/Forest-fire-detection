@@ -20,7 +20,7 @@ All four members contributed code (see commit history).
 ```
 Forest-fire-detection/
 ├── Datasets/
-│   └── survey.csv         # 517 rows x 13 columns (UCI Forest Fires data)
+│   └── survey.csv         # 517 rows x 13 columns (UCI Forest Fires data, via Kaggle)
 ├── src/
 │   └── main.ipynb         # entry point: preprocessing, training, evaluation
 ├── requirements.txt       # pinned library versions
@@ -64,6 +64,7 @@ Slides (5): [FILL: `slides.pdf` in this repo] · Video: [FILL: unlisted YouTube 
  
 - Claude: first draft of this README; edited and checked against the repo by Saksham.
 - Gemini: Figured out how to use the highly skewed data by applying log(1+x) transform.
+- ChatGPT: Used for organising project content.
 - [FILL: each teammate adds the tools they used, what for, and how they checked the output]
 - No AI was used to generate the dataset or the results.
  
