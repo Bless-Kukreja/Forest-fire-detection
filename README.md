@@ -30,7 +30,7 @@ Forest-fire-detection/
  
 ## Setup
  
-Tested on Python [FILL: versions, e.g. 3.10 and 3.11] ([FILL: Windows / macOS / Ubuntu]).
+Tested on Python 3.12 and 3.13 (Ubuntu 24.04). 
  
 ```bash
 git clone https://github.com/Bless-Kukreja/Forest-fire-detection.git
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 1. `cd src`
 2. `jupyter notebook main.ipynb`, then choose **Kernel -> Restart and Run All** (in VS Code: open `src/main.ipynb` and click **Run All**).
 3. The notebook prints MAE, RMSE and R-squared on the test set and shows the plots.
-4. Expected runtime: [FILL: e.g. under 1 minute].
+4. Expected runtime: about 12 seconds
 Result: [FILL: test MAE, RMSE and R-squared, plus one sentence on what they mean].
  
 ## Expected output
