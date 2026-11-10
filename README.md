@@ -45,11 +45,11 @@ pip install -r requirements.txt
  
 1. `cd src`
 2. `jupyter notebook main.ipynb`, then choose **Kernel -> Restart and Run All** (in VS Code: open `src/main.ipynb` and click **Run All**).
-3. The notebook prints MAE, RMSE and R-squared on the test set and shows the plots.
+3. The notebook prints MAE, MSE, RMSE and R-squared on the test set and shows the plots.
 4. Expected runtime: about 12 seconds
 
-Result: MAE 1.016, RMSE 1.277, R² 0.029. The linear regression model yielded a near-zero R² score, so weather alone cannot reliably predict fire size.
- 
+Result: MAE 1.016, MSE 1.629, RMSE 1.277, R² 0.029. The linear regression model yielded a near-zero R² score, so weather alone cannot reliably predict fire size.
+
 ## Expected output
  
 ![Notebook output](images/output.png)
