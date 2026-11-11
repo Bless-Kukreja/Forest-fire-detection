@@ -22,8 +22,9 @@ Forest-fire-detection/
 ├── Datasets/
 │   └── survey.csv         # 517 rows x 13 columns (UCI Forest Fires data, via Kaggle)
 ├── graphs/
-│   └── RH_vs_burned_area.png
-│   └── actual_vs_predicted_plot.png
+│   ├── Output.png
+│   ├── RH_vs_burned_area.png
+│   ├── actual_vs_predicted_plot.png
 │   └── temperature_vs_burned_area.png
 ├── src/
 │   └── main.ipynb         # entry point: preprocessing, training, evaluation
@@ -79,7 +80,7 @@ Video: [FILL: unlisted YouTube or Drive link]
  
 ## AI-use disclosure
  
-- Claude: first draft of this README; edited and checked against the repo by Saksham.
+- Claude: first draft of this README and a final consistency check of the repo; reviewed and edited by Saksham.
 - Gemini: Figured out how to use the highly skewed data by applying a log(1+x) transform.
 - ChatGPT: Used for organizing project content.
 - No AI was used to generate the dataset or corresponding results.
