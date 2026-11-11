@@ -21,10 +21,15 @@ All four members contributed code (see commit history).
 Forest-fire-detection/
 ├── Datasets/
 │   └── survey.csv         # 517 rows x 13 columns (UCI Forest Fires data, via Kaggle)
+├── graphs/
+│   └── RH_vs_burned_area.png
+│   └── actual_vs_predicted_plot.png
+│   └── temperature_vs_burned_area.png
 ├── src/
 │   └── main.ipynb         # entry point: preprocessing, training, evaluation
 ├── requirements.txt       # pinned library versions
 ├── .gitignore
+├── AI Mini Project PPT.pdf
 └── README.md
 ```
  
