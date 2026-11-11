@@ -46,11 +46,13 @@ cd Forest-fire-detection
 ```
 python -m venv venv
 ```
+Windows:
 ```
-# Windows:   venv\Scripts\activate
+venv\Scripts\activate
 ```
+Linux/Mac: 
 ```
-# Linux/Mac: source venv/bin/activate
+source venv/bin/activate
 ```
 ```
 pip install -r requirements.txt
