@@ -1,6 +1,6 @@
 # Forest-fire-detection
 
-Predicts how large an area a forest fire will spread, based on wind speed, temperature, humidity and the ISI fire index (pandas, matplotlib, scikit-learn).
+Predicts how large an area a forest fire will spread, based on wind speed, temperature, humidity, and the ISI fire index (pandas, matplotlib, scikit-learn).
 ![AI101](https://img.shields.io/badge/AI101_Mini--Project-lightblue) ![Team](https://img.shields.io/badge/Team_46-lightblue) ![Python](https://img.shields.io/badge/Python_3.12+-lightblue)
 
 
@@ -45,8 +45,9 @@ pip install -r requirements.txt
  
 1. `cd src`
 2. `jupyter notebook main.ipynb`, then choose **Kernel -> Restart and Run All** (in VS Code: open `src/main.ipynb` and click **Run All**).
-3. The notebook prints MAE, MSE, RMSE and R-squared on the test set and shows the plots.
-4. Expected runtime: about 12 seconds
+3. If an HTML file is requested to be opened, open it and click on the localhost link in it to get to the actual notebook. Then choose your kernel, and under Run, select Run All Cells.
+4. The notebook prints MAE, MSE, RMSE, and R-squared on the test set and shows the plots.
+5. Expected runtime: about 12 seconds
 
 Result: MAE 1.016, MSE 1.629, RMSE 1.277, R² 0.029. The linear regression model yielded a near-zero R² score, so weather alone cannot reliably predict fire size.
 
@@ -63,8 +64,8 @@ Slides (5): [FILL: `slides.pdf` in this repo] · Video: [FILL: unlisted YouTube 
 ## AI-use disclosure
  
 - Claude: first draft of this README; edited and checked against the repo by Saksham.
-- Gemini: Figured out how to use the highly skewed data by applying log(1+x) transform.
-- ChatGPT: Used for organising project content.
+- Gemini: Figured out how to use the highly skewed data by applying a log(1+x) transform.
+- ChatGPT: Used for organizing project content.
 - [FILL: each teammate adds the tools they used, what for, and how they checked the output]
 - No AI was used to generate the dataset or the results.
  
