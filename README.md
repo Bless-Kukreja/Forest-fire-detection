@@ -39,10 +39,19 @@ Tested on Python 3.12 and 3.13 (Ubuntu 24.04).
  
 ```bash
 git clone https://github.com/Bless-Kukreja/Forest-fire-detection.git
+```
+```
 cd Forest-fire-detection
+```
+```
 python -m venv venv
+```
 # Windows:   venv\Scripts\activate
+```
+```
 # Linux/Mac: source venv/bin/activate
+```
+
 pip install -r requirements.txt
 ```
  
