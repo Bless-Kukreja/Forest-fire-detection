@@ -45,7 +45,8 @@ cd Forest-fire-detection
 ```
 ```
 python -m venv venv
-
+```
+```
 # Windows:   venv\Scripts\activate
 ```
 ```
