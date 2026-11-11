@@ -76,7 +76,7 @@ Result: MAE 1.016, MSE 1.629, RMSE 1.277, R² 0.029. The linear regression model
 ## Links
  
 [AI Mini Project PPT](https://github.com/Bless-Kukreja/Forest-fire-detection/blob/main/AI%20Mini%20Project%20PPT.pdf)
-Video: [FILL: unlisted YouTube or Drive link]
+Video: [https://drive.google.com/file/d/1clb5afJPoxHRhB1_jurcwhJBptf_fsVk/view?usp=sharing] (ai project video)
  
 ## AI-use disclosure
  
