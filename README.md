@@ -60,6 +60,5 @@ AI Mini Project PPT Link: https://github.com/Bless-Kukreja/Forest-fire-detection
 - Claude: first draft of this README; edited and checked against the repo by Saksham.
 - Gemini: Figured out how to use the highly skewed data by applying a log(1+x) transform.
 - ChatGPT: Used for organizing project content.
-- [FILL: each teammate adds the tools they used, what for, and how they checked the output]
-- No AI was used to generate the dataset or the results.
+- No AI was used to generate the dataset or corresponding results.
  
