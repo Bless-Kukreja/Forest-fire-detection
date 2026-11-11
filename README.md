@@ -51,12 +51,6 @@ pip install -r requirements.txt
 
 Result: MAE 1.016, MSE 1.629, RMSE 1.277, R² 0.029. The linear regression model yielded a near-zero R² score, so weather alone cannot reliably predict fire size.
 
-## Expected output
- 
-![Notebook output](images/output.png)
- 
-[FILL: screenshot of the notebook's final results cells, saved as `images/output.png`]
- 
 ## Links
  
 AI Mini Project PPT Link: https://github.com/Bless-Kukreja/Forest-fire-detection/blob/main/AI%20Mini%20Project%20PPT.pdf · Video: [FILL: unlisted YouTube or Drive link]
